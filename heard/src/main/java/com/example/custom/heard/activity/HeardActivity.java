@@ -1,7 +1,9 @@
-package com.example.custom.heard;
+package com.example.custom.heard.activity;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+
+import com.example.custom.heard.R;
 
 public class HeardActivity extends AppCompatActivity {
 
