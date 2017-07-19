@@ -14,5 +14,8 @@ public class HeardActivity extends AppCompatActivity {
         setContentView(R.layout.activity_heard);
         Log.e("TAG","this is tag");
         Log.e("TAG","this is tag2");
+
+
+        Log.e("TAG","this is tag3");
     }
 }
